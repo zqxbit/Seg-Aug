@@ -1,7 +1,7 @@
 # Seg-Aug
 **Semantic augmentation for Multimodal 3D Object Detection**
 
-> - Preparing for submission to ICRA 2022
+> - All code will be released upon publication of the paper.
 
 ### AP on KITTI testing Dataset
 
